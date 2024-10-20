@@ -1,7 +1,5 @@
 # Rock Paper Scissor Game
 
-![Project Screenshot](path-to-your-screenshot.png)
-
 A simple web-based **Rock Paper Scissor** game where users can compete against the computer. The game is built using **HTML**, **CSS**, and **JavaScript**. Play your move and see if you can beat the computer!
 
 ## Table of Contents
